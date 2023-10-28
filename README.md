@@ -8,8 +8,8 @@ BookMyShow is a web application that allows users to book movie tickets.
             Our Project uses both local Storage and MongoDB for storing the selected data temporarly and permanently in database.
 
 Live Link :-
-i) For frontend =   
-ii) For backend =  
+i) For frontend =   https://bookmyshow-2.netlify.app/
+ii) For backend =  https://bookmyshow-2tv6.onrender.com/api/booking
 
 ## Technologies :
 This project uses the following technologies :-
@@ -84,27 +84,27 @@ Your Project will Successufully Running now ,
 if you are a new user and haven't done any booking previously.  
 <br>
 
-![Alt Screenshot](/ScreenShots/0.png)
+![Alt Screenshot](./ScreenShots/0.png)
 
 2. After Selecting the data it will highlights, and also if you refresh the page you will not loose you selected data.
 <br> 
 
-![Alt Screenshot](/ScreenShots/1.png)
+![Alt Screenshot](./ScreenShots/1.png)
 
 3.  If you Try To book without selecting all the fields it will show you an alert for selecting that field.
 <br> 
 
-![Alt Screenshot](/ScreenShots/2.png )
+![Alt Screenshot](./ScreenShots/2.png )
 
 4.  After selecting and hitting book button it will show you an alert of TICKET BOOKED SUCCESSFULLY.
 <br> 
 
-![Alt Screenshot](/screenshots/3.png )
+![Alt Screenshot](./ScreenShots/3.png )
 
 5.  And now You can see your last booking details .
 <br> 
 
-![Alt Screenshot](/ScreenShots/4.png)
+![Alt Screenshot](./ScreenShots/4.png)
 
 ## Collaborators 
 
